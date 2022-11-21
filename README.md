@@ -1,5 +1,5 @@
 ## AMD Ryzen Hackintosh Big Sur 11.x.x - Opencore EFI for Asrock B450M Steel Legend
-## This EFI only tested on Big Sur 11.7.1
+- This EFI only tested on Big Sur 11.7.1
 
 ## Specification
 | **Component** | **Model** |
@@ -29,6 +29,6 @@
 This documentation is published for the sole purpose of learning and tech enthusiasm and with no guarantees of any kind, I’m not responsible of any harm of any kind or loss of data that may occur.
 
 ## Credits to
-## OpenCore Related Team
-## wildtigon - for the beautiful README.md
-## Others that not mentioned
+- OpenCore Related Team
+- wildtigon - for the beautiful README.md
+- Others that not mentioned
